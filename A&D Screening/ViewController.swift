@@ -3,7 +3,7 @@
 //  A&D Screening
 //
 //  Created by Andrew Stallone on 9/5/16.
-//  Copyright © 2016 Cyndi Perez. All rights reserved.
+//  Copyright © 2016 Andrew Stallone. All rights reserved.
 //
 
 import UIKit
